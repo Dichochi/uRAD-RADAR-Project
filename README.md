@@ -4,8 +4,8 @@
 This project is focused on measuring data using a uRAD board, the board works on python Howver all the signal proessing is done using MATLAB.
 
 ## Structure
-*MATLAB Signal Processing : Signal processing files 
-*RADAR Measurements: Python files to be used for taking measuremnts
+* MATLAB Signal Processing : Signal processing files 
+* RADAR Measurements: Python files to be used for taking measuremnts
 
 ## Installation
 --To be updated-- 
